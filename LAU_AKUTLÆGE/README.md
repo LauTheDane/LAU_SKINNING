@@ -1,25 +1,52 @@
-** LAU_AKUTLÆGE **
+#LAU_AKUTLÆGE
 
-#DA
+## DA
 
 Tak for at downloade min danske version af Mercedes ML63.
 
-For at få den til at virke skal du have den her 3D model: https://www.gta5-mods.com/vehicles/2012-mercedes-benz-ml63-danish-medic-els-replace-reupload
+For at få den til at virke skal du have den her 3D model: [Link](https://www.gta5-mods.com/vehicles/2012-mercedes-benz-ml63-danish-medic-els-replace-reupload)
 
-Du skal kun bruge "2012 Mercedes Benz ML63 - Danish Medic\Car\speedo.yft and speedo_hi.yft"
+Du skal kun bruge `2012 Mercedes Benz ML63 - Danish Medic\Car\speedo.yft og speedo_hi.yft`
 
 Den er foresten kun GTA V Singplayer Ready.
 
 - LauiiDK / Lau
 
-#ENG
+
+## ENG
 
 Thanks for downloading my Danish version of Mercedes ML63.
 
-To make it work, you need this 3D model: https://www.gta5-mods.com/vehicles/2012-mercedes-benz-ml63-danish-medic-els-replace-reupload
+To make it work, you need this 3D model: [Link](https://www.gta5-mods.com/vehicles/2012-mercedes-benz-ml63-danish-medic-els-replace-reupload)
 
-You only need "2012 Mercedes Benz ML63 - Danish Medic\Car\speedo.yft and speedo_hi.yft"
+You only need `2012 Mercedes Benz ML63 - Danish Medic\Car\speedo.yft and speedo_hi.yft`
 
 It is only GTA V Singplayer Ready.
 
 - LauiiDK / Lau
+
+### TAGS
+
+do not mind this
+Ikke tag dig af det her
+
+Dansk
+Lau
+LauTheDane
+Lau#6747
+Danish
+DA
+DK
+K9
+Hundevogn
+Politi
+Police
+K9 unit
+Hund
+Dog
+Danish Police
+Dansk Politi
+Fiktiv
+Fictional
+Europa
+Europe
