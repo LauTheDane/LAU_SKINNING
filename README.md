@@ -6,4 +6,4 @@ Made by Lau#6747
 
 LAU_HUNDEVOGN [Showcase](https://imgur.com/dCbbMgA.png)
 
-LAU_AKUTLÆGE [Showcase 1](https://imgur.com/RHDDOCY) [Showcase 2](https://imgur.com/KKngpOw)
+LAU_AKUTLÆGE [Showcase 1](https://imgur.com/RHDDOCY), [Showcase 2](https://imgur.com/KKngpOw)
