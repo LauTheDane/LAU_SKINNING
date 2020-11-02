@@ -1,4 +1,4 @@
-#LAU_AKUTLÆGE
+# LAU_AKUTLÆGE
 
 ## DA
 
@@ -37,16 +37,13 @@ Lau#6747
 Danish
 DA
 DK
-K9
-Hundevogn
-Politi
-Police
-K9 unit
-Hund
-Dog
-Danish Police
-Dansk Politi
-Fiktiv
-Fictional
+Akutlæge
+Læge
+EMS
+Doctor
+Emergency physician
+Danish EMS
+Dansk Akutlæge
+Danish Emergency physician
 Europa
 Europe
