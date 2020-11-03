@@ -11,3 +11,5 @@ LAU_AKUTLÆGE [Showcase 1](https://media.discordapp.net/attachments/607560290745
 LAU_INDSATSLEDER [Showcase 1](https://media.discordapp.net/attachments/607560290745188360/761861324355141632/mbindsatsleder1.JPG), [Showcase 2](https://media.discordapp.net/attachments/607560290745188360/761861326359363624/mbindsatsleder2.JPG)
 
 LAU_MB_AMBULANCE [Showcase 1](https://media.discordapp.net/attachments/607560290745188360/761852524449103892/mbambulance1.JPG), [Showcase 2](https://media.discordapp.net/attachments/607560290745188360/761852524449103892/mbambulance1.JPG)
+
+LAU_VW_AMBULANCE [Showcase 1](https://media.discordapp.net/attachments/544161436759490560/761622016809762826/vwambulance1.JPG), [Showcase 2](hhttps://media.discordapp.net/attachments/544161436759490560/761622018863923200/vwambulance2.JPG)
