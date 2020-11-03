@@ -17,7 +17,7 @@ LAU_VW_AMBULANCE [Showcase 1](https://media.discordapp.net/attachments/544161436
 ## Guidelines
 
 
-When using my skins, do not take credit for having made the skins, if you want to use them on a possible. FiveM server, please contact me via Discord.
+When using my skins, do not take credit for having made the skins, if you want to use them on a possible FiveM server, please contact me on Discord.
 
 ### Contact
 
