@@ -21,4 +21,4 @@ When using my skins, do not take credit for having made the skins, if you want t
 
 ### Contact
 
-[![Discord](https://i.imgur.com/9GFVWqX.png)]( ) Lau#6747
+[![Discord](https://i.imgur.com/9GFVWqX.png)]() Lau#6747
